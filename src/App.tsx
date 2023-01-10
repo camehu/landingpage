@@ -7,7 +7,7 @@ import React from 'react';
 function App() {
   return (
     <div className="App"> 
-      <img src="img/landing_page.jpg" alt=""  />
+      <img src="../public/img/landing_page.jpg" alt=""  />
      
            
     </div>
